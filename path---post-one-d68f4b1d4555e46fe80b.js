@@ -1,0 +1,2 @@
+webpackJsonp([0x8f85a78c25d5],{346:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Meeting Two was held at Cuba in Butterworth.</p>",frontmatter:{path:"/post-one",title:"Meeting Two",date:"2018-08-23",author:"Phila Tshaka"}}},pathContext:{}}}});
+//# sourceMappingURL=path---post-one-d68f4b1d4555e46fe80b.js.map

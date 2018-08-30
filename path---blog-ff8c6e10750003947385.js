@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{341:function(e,a){e.exports={data:{allMarkdownRemark:{edges:[{node:{id:"src/pages/2018-objectives/index.md absPath of file >>> MarkdownRemark",frontmatter:{path:"/objectives",title:"Meeting One",date:"2018-08-23",author:"Phila Tshaka"}}},{node:{id:"src/pages/2018/index.md absPath of file >>> MarkdownRemark",frontmatter:{path:"/post-one",title:"Meeting Two",date:"2018-08-23",author:"Phila Tshaka"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-ff8c6e10750003947385.js.map

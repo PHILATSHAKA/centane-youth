@@ -1,0 +1,2 @@
+webpackJsonp([0xd24d11d271b],{344:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Meeting one was held at Butterworth.</p>",frontmatter:{path:"/objectives",title:"Meeting One",date:"2018-08-23",author:"Phila Tshaka"}}},pathContext:{}}}});
+//# sourceMappingURL=path---objectives-96847d2c3af95aa2c598.js.map
