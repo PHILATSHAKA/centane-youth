@@ -1,0 +1,12 @@
+.footer{
+    position: fixed;
+    left: 0;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 0;
+    padding-top: 20px;
+    width: 100%;
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+}

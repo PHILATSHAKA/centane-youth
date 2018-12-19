@@ -1,7 +1,7 @@
 ---
-path: "/objectives"
+path: "/meeting-2"
 date: "2018-08-23"
-title: "Meeting One"
+title: "Meeting two"
 author: "Phila Tshaka"
 ---
 Meeting one was held at Butterworth.

@@ -1,0 +1,7 @@
+.nested-dropdown-menu {
+    height: 100px;
+    max-width: auto;
+    overflow-y: auto;
+    overflow-x: hidden;
+    list-style-type: none;
+}

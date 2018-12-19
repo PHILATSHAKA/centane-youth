@@ -1,0 +1,62 @@
+.intro-header {
+    height: 85px;
+   /* padding-top: 110px;*/
+    padding-left: 35px;
+    padding-bottom: 50px;
+    text-align: center;
+    /* background-image: url("../../images/books.jpg"); */
+    background-size: cover;
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    color: white;
+}
+.heading{
+font-weight: 700;
+text-align: center;
+font-size: 2.5em;
+text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+             0px 8px 13px rgba(0, 0, 0, 0.1),
+             0px 18px 23px rgba(0, 0, 0, 0.1);
+}
+.intro-message >h1 {
+    /* color :rgb(52, 52, 52); */
+    color: white;
+}
+
+.bg-overlay {
+    height: 600px;
+}
+.intro-divider {
+    width: 400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.button-network {
+   text-decoration: none;
+   margin: 0 10px;
+   margin-top: 10px;
+}
+.btn{
+    display: inline-block;
+    color: #000;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    background-color: #C0C0C0;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5)
+}
+.btn:hover{
+    color: #fff;
+    background: rgba(0,0,0,0.9);
+    text-shadow: 1px 1px 1px rgba(0,0,0,1);
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+.communication{
+    margin-bottom: 60px;
+    padding: auto;
+}
+.iconFa{
+    padding-right: 2px;   
+}

@@ -1,0 +1,8 @@
+.navigation .navbar-brand>img {
+    padding: 7px 15px;
+    margin-top: -10px;
+    width: 175px;
+    position: relative;
+    height: 65px;
+	float: left;
+  }

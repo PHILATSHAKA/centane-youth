@@ -1,8 +1,8 @@
 ---
-path: "/post-one"
-date: "2018-08-23"
-title: "Meeting Two"
+path: "/meeting-1"
+date: "2018-06-15"
+title: "Meeting one"
 author: "Phila Tshaka"
 ---
-
-Meeting Two was held at Cuba in Butterworth.
+Meeting one was held at Cuba in Butterworth.
+<!-- <iframe width="560" height="305" src="https://www.youtube.com/embed/c--etqIJcow?ecver=1" frameborder="0" allowfullscreen></iframe> -->
