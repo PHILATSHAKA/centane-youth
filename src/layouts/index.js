@@ -1,13 +1,15 @@
-import React from 'react'
+import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import root from 'window-or-global';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from '../pages/footer/index';
 import Header from '../components/header/header';
 import favicon from '../images/logo.png';
 import './index.css'
 
 const Layout = ({ children, data }) => (
+  
     <div>
       <Helmet
         title={data.site.siteMetadata.title}

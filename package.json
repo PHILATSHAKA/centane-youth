@@ -22,7 +22,8 @@
     "react-responsive-carousel": "^3.1.43",
     "react-text-more-less": "^0.4.0",
     "reactstrap": "^6.5.0",
-    "read-more-react": "^1.0.6"
+    "read-more-react": "^1.0.6",
+    "window-or-global": "^1.0.1"
   },
   "peerDependencies": {
     "radium": "^0.25.0"
