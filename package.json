@@ -3,6 +3,9 @@
   "description": "Gatsby default starter",
   "version": "1.0.0",
   "author": "Phila Tshaka <pp.tshaka@gmail.com>",
+  "engines": {
+    "node": "10.14.1"
+  },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "gatsby": "^1.9.277",
